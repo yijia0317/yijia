@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>刘懿嘉的个人网页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #000;
+            background-color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #e0f7fa;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        .section-title {
+            color: #4caf50;
+            border-bottom: 2px solid #4caf50;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #e0f7fa;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>欢迎来到刘懿嘉的个人网页</h1>
+    </header>
+
+    <section id="about">
+        <h2 class="section-title">关于我</h2>
+        <p>姓名：刘懿嘉</p>
+        <p>职业：学生</p>
+        <p>出生日期：2007年3月17日</p>
+        <p>联系方式：18983889220</p>
+        <p>兴趣爱好：BTS、电吉他、小狗、旅行</p>
+        <p>梦想：环球旅行，未来想养一只边牧和一只德牧</p>
+    </section>
+
+    <section id="skills">
+        <h2 class="section-title">技能</h2>
+        <p>电吉他演奏</p>
+    </section>
+
+    <section id="hobbies">
+        <h2 class="section-title">爱好</h2>
+        <p>我喜欢BTS、小狗，并且热爱旅行。</p>
+    </section>
+
+    <section id="dreams">
+        <h2 class="section-title">梦想</h2>
+        <p>我的梦想是环球旅行，未来希望能够拥有一只边牧和一只德牧。</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 刘懿嘉</p>
+    </footer>
+</body>
+</html>
